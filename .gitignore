@@ -3,3 +3,6 @@
 
 # others
 *.probe
+
+# mac
+.DS_Store
